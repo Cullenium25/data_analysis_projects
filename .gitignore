@@ -1,0 +1,30 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.venv-*/
+env/
+.env
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Databases / binary exports
+*.db
+
+# Archives / binaries often too large for Git
+*.zip
+*.rar
+*.7z
+
+# Data / secrets / generated artifacts you don't need in version control
+*.csv
+!docs/examples/*.csv
+huge_*/large_*/
+raw/
