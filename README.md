@@ -1,6 +1,5 @@
 # Data Analysis & BI Portfolio
-
-Hi, I’m **Cullen Capili** — a data analyst focused on turning raw data into clear, actionable insights. This portfolio highlights end-to-end analytics work: cleaning messy data, building analytical models, and communicating findings through dashboards and notebooks.
+This portfolio highlights end-to-end analytics work: cleaning messy data, building analytical models, and communicating findings through dashboards and notebooks.
 
 ## What this repo shows
 
